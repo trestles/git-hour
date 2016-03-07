@@ -1,0 +1,4 @@
+
+1. on master
+2. on dxx / make a remote tracking branch
+3. after you have deleted the remote tracking branch 
